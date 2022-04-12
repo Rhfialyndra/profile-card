@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" type="image/png" href="/images/favicon.png" />
       </Head>
 
-        <div className="max-w-xl w-80 h-80  mx-6 my-10 bg-white rounded-xl flex flex-col items-center">
+        <div className="max-w-xl w-80 h-80  mx-6 my-10 bg-white rounded-xl flex flex-col items-center drop-shadow-2xl">
             <div className='noSelect w-full relative h-32'>
               <Image src="/images/bg-pattern-card.svg"
               layout="fill"
